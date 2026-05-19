@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.9.3]
+
+### Enhancements
+
+- [`413f01c06`](https://www.github.com/tauri-apps/tauri/commit/413f01c065506b81059f452123c71c552ccaa7e4) ([#15403](https://www.github.com/tauri-apps/tauri/pull/15403) by [@Sean-Kenneth-Doherty](https://www.github.com/tauri-apps/tauri/../../Sean-Kenneth-Doherty)) Improve NSIS configuration path errors so missing installer icons and images include the related config key and path.
+
 ## \[2.9.2]
 
 ### Dependencies
